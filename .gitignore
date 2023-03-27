@@ -9,6 +9,9 @@ npm-error.log
 .DS_Store
 *.json-e
 *.js-e
+.yarn/
+.yarnrc.yml
+yarn.lock
 
 .vscode
 .idea
